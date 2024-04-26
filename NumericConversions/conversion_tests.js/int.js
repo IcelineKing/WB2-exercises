@@ -16,23 +16,13 @@ b = parseInt(b);
 c = parseInt(c);
 d = parseInt(d);
 
-
 console.log(a);
 console.log(b);
 console.log(c);
 console.log(d);
 
 // Int results:
-101
-55
-402
+101;
+55;
+402;
 //NaN
-
-
-
-
-
-
-
-
-

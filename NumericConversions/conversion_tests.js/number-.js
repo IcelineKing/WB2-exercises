@@ -23,7 +23,7 @@ console.log(c);
 console.log(d);
 
 //Results:
-01.1
+101.1
 55
 //NaN
 //NaN
